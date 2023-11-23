@@ -15,7 +15,7 @@ With ADB Installer, you can easily install ADB on your computer, update it to th
 ## Usage
 
 1. Download the ADB Installer script by clicking on the "Download" button on this page.
-2. Extract the downloaded zip file and run the `ADB-Installer.bat` file.
+2. Extract the downloaded zip file and run the `ADB-Installer.exe` file.
 3. Follow the instructions on the screen to perform the desired action.
 
 ## Credits
